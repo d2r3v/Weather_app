@@ -7,7 +7,7 @@ A Weather App using HTML , CSS and JavaScript
 
 - `Search bar` for searching cities 
 
-- Corrosponding `wallpaper` to City 
+- Corresponding `wallpaper` to City 
 
 - `Icon` for Weather type 
 
